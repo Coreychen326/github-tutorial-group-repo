@@ -73,4 +73,5 @@ Everyone should create their own branch to edit this!
 | Jeremy Little | jdl2fr | Took classes & created a website |
 | Katelyn Stovall | krs2sy | Interned at Telos | 
 | Shivani Nathan | sn3nu | Interned @ Northrop Grumman |
+| Max Gerlach | mmg4yb | Climbed in and traversed the the Wind River Range |
 
