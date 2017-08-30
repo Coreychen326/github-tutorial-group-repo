@@ -72,3 +72,5 @@ Everyone should create their own branch to edit this!
 | Aakansha Jain | aj9up | Interned @ Swift Inc. & Studied for Mcat |
 | Jeremy Little | jdl2fr | Took classes & created a website |
 | Katelyn Stovall | krs2sy | Interned at Telos | 
+| Shivani Nathan | sn3nu | Interned @ Northrop Grumman |
+
