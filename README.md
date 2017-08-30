@@ -63,3 +63,4 @@ Everyone should create their own branch to edit this!
 | Karen Su | ks5mx | Interned @ Noblis |
 | Harrison Nam | hjn3ur | Interned @ Bettermynd |
 | Katherine Qian | kq3zm | Interned in China |
+| Brandon McKay  | bmm8ce		| interned in nashville			|
