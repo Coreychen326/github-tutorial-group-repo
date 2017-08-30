@@ -68,3 +68,7 @@ Everyone should create their own branch to edit this!
 | Brandon McKay  | bmm8ce		| interned in nashville			|
 | Mark Anderson | mja2as | interned @ Willowtree |
 | Vincent Lin | vcl4fb | Interned @ MITRE |
+| Christopher Chen | cxc2zm | interned @ epic systems | 
+| Aakansha Jain | aj9up | Interned @ Swift Inc. & Studied for Mcat |
+| Jeremy Little | jdl2fr | Took classes & created a website |
+| Katelyn Stovall | krs2sy | Interned at Telos | 
