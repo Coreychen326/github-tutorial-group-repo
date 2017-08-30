@@ -61,6 +61,7 @@ Everyone should create their own branch to edit this!
 | James Johnston  | jvj7mv | Worked and took summer classes |
 | Fred Zhao | jz7zb | Went to Camp Bisco |
 | Karen Su | ks5mx | Interned @ Noblis |
+| Meeka Meng | mm9gw | Interned @ FTC |
 | Harrison Nam | hjn3ur | Interned @ Bettermynd |
 | Katherine Qian | kq3zm | Interned in China |
 | Joe Chey  | jc7yu | Tutored math  |
