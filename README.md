@@ -74,3 +74,4 @@ Everyone should create their own branch to edit this!
 | Katelyn Stovall | krs2sy | Interned at Telos | 
 | Shivani Nathan | sn3nu | Interned @ Northrop Grumman |
 | Sallie Lam | sjl5bz | Interned @ Infosys
+| Max Gerlach | mmg4yb | Climbed in and traversed the the Wind River Range |
