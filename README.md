@@ -69,3 +69,4 @@ Everyone should create their own branch to edit this!
 | Mark Anderson | mja2as | interned @ Willowtree |
 | Christopher Chen | cxc2zm | interned @ epic systems | 
 | Aakansha Jain | aj9up | Interned @ Swift Inc. & Studied for Mcat |
+| Jeremy Little | jdl2fr | Took classes and created a website |
