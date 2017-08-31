@@ -83,3 +83,4 @@ Everyone should create their own branch to edit this!
 | Avi Montanez | adm2jr | Interned @ SWIFT - Secure Financial Messaging Services |
 |Dan Donovan | dpd5nz | Went to all the Giant Eagles in Pittsburgh PA |
 |Dhruv Jain| dj4ba | Interned @ EXL Service |
+| Corey Chen | czc3wa | Interned @ Aperiomics | 
