@@ -78,3 +78,4 @@ Everyone should create their own branch to edit this!
 | Rachel Pehrsson | rhp8rg | Interned @ Naval Warfare Center |
 | Cabell Glancy | bcg7mf | Guided backpacking trips in Maine |
 | Alyssa Porto | app9gv | Interned @ Anheuser-Busch |
+| Nicholas Georgiou | ncg2fh | Visited family in Greece and took online AI courses |
