@@ -79,3 +79,4 @@ Everyone should create their own branch to edit this!
 | Cabell Glancy | bcg7mf | Guided backpacking trips in Maine |
 | Alyssa Porto | app9gv | Interned @ Anheuser-Busch |
 | Nicholas Georgiou | ncg2fh | Visited family in Greece and took online AI courses |
+| Anchit Kolla | ak7th | Interned @ Solers Inc. |
