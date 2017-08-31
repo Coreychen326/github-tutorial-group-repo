@@ -80,4 +80,4 @@ Everyone should create their own branch to edit this!
 | Alyssa Porto | app9gv | Interned @ Anheuser-Busch |
 | Nicholas Georgiou | ncg2fh | Visited family in Greece and took online AI courses |
 | Anchit Kolla | ak7th | Interned @ Solers Inc. |
-
+| Avi Montanez | adm2jr | Interned @ SWIFT - Secure Financial Messaging Services |
