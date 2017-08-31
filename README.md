@@ -75,3 +75,4 @@ Everyone should create their own branch to edit this!
 | Shivani Nathan | sn3nu | Interned @ Northrop Grumman |
 | Sallie Lam | sjl5bz | Interned @ Infosys
 | Max Gerlach | mmg4yb | Climbed in and traversed the the Wind River Range |
+| Rachel Pehrsson | rhp8rg | Interned @ Naval Warfare Center |
