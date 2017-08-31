@@ -76,3 +76,4 @@ Everyone should create their own branch to edit this!
 | Sallie Lam | sjl5bz | Interned @ Infosys
 | Max Gerlach | mmg4yb | Climbed in and traversed the the Wind River Range |
 | Rachel Pehrsson | rhp8rg | Interned @ Naval Warfare Center |
+| Cabell Glancy | bcg7mf | Guided backpacking trips in Maine |
