@@ -1,4 +1,4 @@
-﻿# github-tutorial-group-repo
+# github-tutorial-group-repo
 
 Everyone should create their own branch to edit this!
 
@@ -14,7 +14,7 @@ Everyone should create their own branch to edit this!
 | Joseph Tobin   | jat9kf     | Interned @ Microsoft                     |
 | Jonathan Lowe  | jl4ge      | Chilled with family                     |
 | Ahmed Youssef  | ay6xp      | Interned @ Higher Logic                 |
-| Matias Rietig  | mjr9r      | Took exams back home & travelled to US  |
+| Matias Rietig  | mjr9r      | Took exams back home & travelled to US  |
 | Paul Ammer     | pda6ne       | Interned @ Northrop Grumman             |
 | Brigham Bangerter | bb3uc    | Interned @ IBM                         |
 | Victoria Li    | vl4kz      | Interned @ Noblis                       |
@@ -23,7 +23,7 @@ Everyone should create their own branch to edit this!
 | Anthony Quach  | aq2js      | Interned @ Capital One                  |
 | Deeksha Reddy  | dpr5ks       | Interned @ Procter & Gamble             |
 | Dan Nguyen     | dn6dm      | Went to Cozumel, MX                     |
-| Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
+| Fan Feng     | ff9sd      | Conducted Research at Predictive Technology Lab  |
 | Gabriella Greiner | ggg3xv  | Interned at Clark Construction  |
 | Anisha Kumar | ak4tr  | Interned @ CGI Federal |
 | Kathleen Ross | kr3ad | Went on a cross-country road trip |
@@ -75,4 +75,10 @@ Everyone should create their own branch to edit this!
 | Shivani Nathan | sn3nu | Interned @ Northrop Grumman |
 | Sallie Lam | sjl5bz | Interned @ Infosys
 | Max Gerlach | mmg4yb | Climbed in and traversed the the Wind River Range |
-| Dan Donovan | dpd5nz | Visited all Pittsburgh PA Giant Eagles |
+| Rachel Pehrsson | rhp8rg | Interned @ Naval Warfare Center |
+| Cabell Glancy | bcg7mf | Guided backpacking trips in Maine |
+| Alyssa Porto | app9gv | Interned @ Anheuser-Busch |
+| Nicholas Georgiou | ncg2fh | Visited family in Greece and took online AI courses |
+| Anchit Kolla | ak7th | Interned @ Solers Inc. |
+| Avi Montanez | adm2jr | Interned @ SWIFT - Secure Financial Messaging Services |
+|Dan Donovan | dpd5nz | Went to all the Giant Eagles in Pittsburgh PA |
